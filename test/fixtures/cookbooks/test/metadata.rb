@@ -1,0 +1,5 @@
+name 'test'
+maintainer 'fernandoaleman'
+description 'Testing cookbook for redis_cli'
+version '0.1.0'
+depends 'redis_cli'
